@@ -27,10 +27,5 @@ The Smart Traffic Control System is an intelligent solution designed to enhance 
 - Websockets or REST APIs (for communication)
 - Node-Red dashboard (for the user interface)
 
-### Installation and Usage
-1. Clone this repository.
-2. Set up the required dependencies (Python, Node.js, etc.).
-3. Configure camera feeds or video streams.
-4. Run the system and monitor traffic data via the web interface.
 
 Note that above informations are subjected to changes.
